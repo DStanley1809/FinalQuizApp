@@ -1,0 +1,103 @@
+<resources>
+    <!-- App bar title text -->
+    <string name="app_name">Land Rover Quiz</string>
+
+    <!-- Intro text -->
+    <string name="intro_text">This quiz will test your Land Rover knowledge and teach you things you didn\'t know about this great automotive brand.</string>
+
+    <!-- Text for question 1 -->
+    <string name="q1_text">"At the time of Land Rover\'s creation it was a subsidiary of a then well established British motor manufacturer. \n \nWho was Land Rover's parent company?"</string>
+
+    <!-- Hint text for Question 1 text entry field -->
+    <string name="q1_hint">Type your answer here</string>
+
+    <!-- Text for question 2 -->
+    <string name="q2_text">The man shown below is a very significant figure in the history of Land Rover.  He was responsible for the creation of the brand and the design of the very first Land Rover. \n \nWhat is his name?</string>
+
+    <!-- Text for question 2, option 1 -->
+    <string name="q2_o1_text">Spencer Wilks</string>
+
+    <!-- Text for question 2, option 2 -->
+    <string name="q2_o2_text">Maurice Wilks</string>
+
+    <!-- Text for question 2, option 3 -->
+    <string name="q2_o3_text">Charles Spencer King</string>
+
+    <!-- Text for question 2, option 4 -->
+    <string name="q2_o4_text">Gerry McGovern</string>
+
+    <!-- Text for question 3 -->
+    <string name="q3_text">Over the years, the Land Rover was available in a variety of wheelbase lengths. \n \nWhat was the wheelbase of the very first Land Rover?</string>
+
+    <!-- Spinner options for question 3 -->
+    <string-array name="wheelbase_lengths">
+        <item> Please select</item>
+        <item>76 inches</item>
+        <item>80 inches</item>
+        <item>86 inches</item>
+        <item>88 inches</item>
+        <item>90 inches</item>
+        <item>109 inches</item>
+        <item>110 inches</item>
+        <item>127 inches</item>
+        <item>130 inches</item>
+    </string-array>
+
+    <!-- Text for question 4 -->
+    <string name="q4_text">The inspiration for the first Land Rover was taken from a US Army Surplus Willys Jeep used by the Land Rover designer for farm work.  \n \nTrue or false?</string>
+
+    <!-- Text for question 4 toggle switch On state -->
+    <string name="toggle_on">True</string>
+
+    <!-- Text for question 4 toggle switch Off state -->
+    <string name="toggle_off">False</string>
+
+    <!-- Text for question 5 -->
+    <string name="q5_text">Over a production run of 67 years the original Land Rover underwent a number of changes and updates which also came with new names. \n \nWhich of the following names were actually used?</string>
+
+    <!-- Q5 CheckBox 1 text -->
+    <string name="q5_cb1">Series II</string>
+
+    <!-- Q5 CheckBox 2 text -->
+    <string name="q5_cb2">Series IIA</string>
+
+    <!-- Q5 CheckBox 3 text -->
+    <string name="q5_cb3">Series IIC</string>
+
+    <!-- Q5 CheckBox 4 text -->
+    <string name="q5_cb4">Series III</string>
+
+    <!-- Q5 CheckBox 5 text -->
+    <string name="q5_cb5">Series IV</string>
+
+    <!-- Q5 CheckBox 6 text -->
+    <string name="q5_cb6">Ninety</string>
+
+    <!-- Q5 CheckBox 7 text -->
+    <string name="q5_cb7">One Two Seven</string>
+
+    <!-- Q5 CheckBox 8 text -->
+    <string name="q5_cb8">Offender</string>
+
+    <!-- Submit button text -->
+    <string name="submit_button">Submit</string>
+
+    <!-- User score text -->
+    <string name="your_score">"Your score is: "</string>
+
+    <!-- Reset button text -->
+    <string name="reset_button">Reset</string>
+
+    <!-- Text for Toast message on submitting answers -->
+    <string name="toast_message">"Congratulations! Your score is "</string>
+
+    <!-- Text to share -->
+    <string name="share_text">I just did a Land Rover quiz and scored "</string>
+
+    <!-- Share button text -->
+    <string name="share_button">Share</string>
+
+    <!-- Send to text for share method -->
+    <string name="send_to">Select share method</string>
+
+</resources>
